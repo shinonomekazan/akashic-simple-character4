@@ -10,7 +10,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "",
+	"license": "MIT",
 	"devDependencies": {
 		"@akashic/akashic-cli": "^2.15.74",
 		"@akashic/akashic-sandbox": "~0.17.35",

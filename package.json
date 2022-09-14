@@ -20,7 +20,7 @@
 		"type": "git",
 		"url": "git+https://github.com/shinonomekazan/akashic-module-template.git"
 	},
-	"author": "tsugehara <tsugehara@gmail.com> (https://github.com/tsugehara)",
+	"author": "Shinonomekazan Co., Ltd.",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/shinonomekazan/akashic-module-template/issues"
@@ -31,9 +31,6 @@
 		"prettier": "^2.4.1",
 		"rimraf": "^3.0.2",
 		"typescript": "^4.4.4"
-	},
-	"dependencies": {
-		"@akashic-extension/akashic-tile": "^3.0.1"
 	},
 	"typings": "build/index.d.ts"
 }
