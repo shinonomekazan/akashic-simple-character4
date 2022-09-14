@@ -18,14 +18,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/shinonomekazan/akashic-module-template.git"
+		"url": "git+https://github.com/shinonomekazan/akashic-simple-character4.git"
 	},
 	"author": "Shinonomekazan Co., Ltd.",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/shinonomekazan/akashic-module-template/issues"
+		"url": "https://github.com/shinonomekazan/akashic-simple-character4/issues"
 	},
-	"homepage": "https://github.com/shinonomekazan/akashic-module-template#readme",
+	"homepage": "https://github.com/shinonomekazan/akashic-simple-character4#readme",
 	"devDependencies": {
 		"@akashic/akashic-engine": "^3.2.0",
 		"prettier": "^2.4.1",
